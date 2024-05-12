@@ -1,0 +1,18 @@
+div{
+    background-color: aliceblue;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    width: 480px;
+    max-width: 100%;
+    border-right: 1px gray solid;
+    box-sizing: border-box; 
+
+}
+
+img{
+    width: 50px;
+    height: 80px;
+    vertical-align: middle;
+}

@@ -1,0 +1,20 @@
+div{
+    background-color: rgb(207, 228, 247);
+    text-align: left;
+    display: inline-block;
+    width: 480px;
+    height: 385px;
+    border-right: 1px gray solid;
+    font-size: 18px;
+    vertical-align: top;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+
+}
+
+
+#main{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
